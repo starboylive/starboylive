@@ -2,7 +2,7 @@
 
 <img src="assets/banner.png" alt="banner" width="100%" />
 
-# 👋 Hey, I'm Siddharth
+# 👋 Hey, I'm Siddu
 
 ### Building cool things, solving problems, and documenting the journey.
 
@@ -70,7 +70,7 @@ I believe the best way to learn is by building, breaking things, fixing them, an
 
 ### 🌐 sidframe
 
-My personal portfolio and digital journal where I document my developer journey, projects, blogs, and competitive programming approaches.
+My personal digital journal where I document my developer journey, projects, blogs, and competitive programming approaches.
 
 🔗 https://sidframe.vercel.app
 
@@ -128,13 +128,13 @@ Healthcare platform built during a hackathon connecting blood banks, organ donor
 
 # 📫 Connect With Me
 
-Portfolio → https://sidframe.vercel.app
+Portfolio → https://sidbytes.vercel.app
 
-GitHub → https://github.com/YOUR_USERNAME
+GitHub → https://github.com/starboylive
 
-LinkedIn → YOUR_LINKEDIN
+LinkedIn → https://www.linkedin.com/in/starboylive/
 
-Email → YOUR_EMAIL
+Email → ramadalivenkatesh@gmail.com
 
 ---
 
