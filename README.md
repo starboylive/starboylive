@@ -1,21 +1,147 @@
-# 💫 About Me:
-🔭 I’m currently working on UI/UX, Web-Dev<br>👯 I’m looking to Freelance on Graphic Designing, Video Editing <br>🤝 I’m looking for help with DSA/C++<br>🌱 I’m currently learning DSA w/C++<br><br> ⚡ Fun fact - I love freelance but I ain't havin' no clients xd <br>
+<div align="center">
 
+<img src="assets/banner.png" alt="banner" width="100%" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sidiswater) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/starboylive) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sidbitss) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@sidiswired) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sidisrealfr@gmail.com) 
+# 👋 Hey, I'm Siddharth
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+### Building cool things, solving problems, and documenting the journey.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sidframe-000?style=for-the-badge)](https://sidframe.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge)](https://github.com/YOUR_USERNAME)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=starboylive&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sidisreal) 
+# ✨ About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm a Computer Science student from India who loves building software that solves real problems.
+
+Currently I'm focused on:
+
+- 💻 Full-Stack Development
+- ⚡ Competitive Programming
+- 🤖 Artificial Intelligence & Machine Learning
+- 🌐 Open Source
+- 🚀 Building products and sharing everything I learn
+
+I believe the best way to learn is by building, breaking things, fixing them, and documenting the entire journey.
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express)
+
+### Database & Cloud
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma)
+
+---
+
+# 🚀 Featured Projects
+
+### 🌐 sidframe
+
+My personal portfolio and digital journal where I document my developer journey, projects, blogs, and competitive programming approaches.
+
+🔗 https://sidframe.vercel.app
+
+---
+
+### 📚 DevSync
+
+A Chrome extension that transforms your New Tab into a developer dashboard with coding profiles, daily goals, and productivity tools.
+
+---
+
+### ❤️ MediSphere
+
+Healthcare platform built during a hackathon connecting blood banks, organ donors, recipients, and doctors.
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark"/>
+
+</p>
+
+---
+
+# 🏆 Competitive Programming
+
+- 💚 Solving problems every day
+- ⚡ Active on Codeforces & LeetCode
+- 🎯 Goal: Become Candidate Master
+- 📚 Learning advanced Data Structures & Algorithms
+
+---
+
+# 🌱 Currently Learning
+
+- React
+- Next.js
+- System Design
+- Backend Architecture
+- Machine Learning
+- DevOps
+
+---
+
+# 📫 Connect With Me
+
+Portfolio → https://sidframe.vercel.app
+
+GitHub → https://github.com/YOUR_USERNAME
+
+LinkedIn → YOUR_LINKEDIN
+
+Email → YOUR_EMAIL
+
+---
+
+<div align="center">
+
+### Thanks for stopping by!
+
+*"Code. Learn. Build. Repeat."*
+
+</div>
