@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](YOUR_LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge)](https://github.com/YOUR_USERNAME)
 
-</div>
+<!-- </div> -->
 
 ---
 
@@ -137,6 +137,8 @@ LinkedIn → https://www.linkedin.com/in/starboylive/
 Email → ramadalivenkatesh@gmail.com
 
 ---
+
+</div>
 
 <div align="center">
 
