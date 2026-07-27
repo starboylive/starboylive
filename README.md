@@ -110,9 +110,9 @@ Healthcare platform built during a hackathon connecting blood banks, organ donor
 
 # 📫 Connect With Me
 
-Portfolio → https://sidbytes.vercel.app
+Portfolio → https://sidbytes.tech
 
-GitHub → https://github.com/starboylive
+GitHub → https://github.com/sidwgit
 
 LinkedIn → https://www.linkedin.com/in/starboylive/
 
